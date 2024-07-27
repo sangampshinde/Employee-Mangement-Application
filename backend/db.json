@@ -1,0 +1,33 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "1234567890",
+        "country": "USA",
+        "state": "California",
+        "district": "San Francisco"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "0987654321",
+        "country": "Canada",
+        "state": "Ontario",
+        "district": "Toronto"
+      }
+    ],
+    "countries": [
+      {
+        "code": "US",
+        "name": "USA"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      }
+    ]
+  }
+  
